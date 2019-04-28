@@ -1,0 +1,4 @@
+*~
+*.mat
+signals/*
+*.bin
